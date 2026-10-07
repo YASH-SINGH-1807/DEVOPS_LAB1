@@ -110,7 +110,7 @@ git log --oneline
 
 ## GitHub Connection
 
-git remote add origin https://github.com/YASH-SINGH_1807/DEVOPS_LAB1.git
+git remote add origin https://github.com/YASH-SINGH-1807/DEVOPS_LAB1.git
 
 git remote -v
 
