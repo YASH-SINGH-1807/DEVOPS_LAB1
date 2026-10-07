@@ -11,7 +11,7 @@ git --version
 
 ## Git Configuration
 
-git config --global user.name "Sagar Kadam"
+git config --global user.name "YASH SINGH"
 
 git config --global user.email "example@gmail.com"
 
@@ -58,7 +58,7 @@ git --version
 
 ## Git Configuration
 
-git config --global user.name "Sagar Kadam"
+git config --global user.name "YASH SINGH"
 
 git config --global user.email "your_email@gmail.com"
 
@@ -110,7 +110,7 @@ git log --oneline
 
 ## GitHub Connection
 
-git remote add origin https://github.com/Sagar9914/Devops_Lab1.git
+git remote add origin https://github.com/YASH-SINGH_1807/DEVOPS_LAB1.git
 
 git remote -v
 
